@@ -7439,7 +7439,7 @@
 
   (footprint "Diode_SMD_TopBottom:D_SOD-123_TopBottom" (layer "F.Cu")
     (tedit 61658DC2) (tstamp f60aec40-a966-4eea-b4ff-d269bbd96290)
-    (at 47.5 144)
+    (at 48 143.5 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "mask-0.0.0.kicad_sch")
@@ -7506,13 +7506,13 @@
     (fp_line (start 1.4 -0.9) (end 1.4 0.9) (layer "F.Fab") (width 0.1) (tstamp b8a85ab4-dace-425f-9ae7-cebe09bd68f0))
     (fp_line (start 0.25 -0.4) (end 0.25 0.4) (layer "F.Fab") (width 0.1) (tstamp d35eaca8-b259-4eb1-b470-34d54353cfb0))
     (fp_line (start -0.35 0) (end -0.35 -0.55) (layer "F.Fab") (width 0.1) (tstamp e0ffe08b-cadd-4cf0-b02e-7151ed75ed0d))
-    (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
+    (pad "1" smd rect (at -1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 18 "/ROW4") (pinfunction "K") (tstamp 35b12769-5502-4525-a03d-dd0a3a7f4af4))
-    (pad "1" smd rect (at -1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 18 "/ROW4") (pinfunction "K") (tstamp 443ad1c2-3e21-4d40-be02-4730d3311232))
-    (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
+    (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 21 "Net-(D31-Pad2)") (pinfunction "A") (tstamp 38585c83-7ee5-4f18-b5ca-7bbd8ddb6fce))
-    (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 21 "Net-(D31-Pad2)") (pinfunction "A") (tstamp 9cd0c16c-632f-4b41-ba73-3f36391fdb66))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
@@ -8116,5 +8116,7 @@
   (gr_line (start 167 108.2395) (end 167 112.7395) (layer "User.1") (width 0.15) (tstamp ef59efb7-c0bc-4634-b90b-e80bc51dc35a))
   (gr_line (start 125.4 69.8) (end 125.4 65.3) (layer "User.1") (width 0.15) (tstamp f7898694-1d87-4f1d-b8c6-bd003d2f5438))
   (gr_line (start 125.3988 145.9852) (end 125.3988 141.4852) (layer "User.1") (width 0.15) (tstamp ff4cbabe-985c-4a1f-8958-1359b6961e72))
+
+  (segment (start 39.980658 162.356748) (end 39.980658 162.980658) (width 0.25) (layer "F.Cu") (net 21) (tstamp b185ec81-f746-4f68-960b-01de0c657e36))
 
 )
