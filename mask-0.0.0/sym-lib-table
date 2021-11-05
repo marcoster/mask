@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "RF_Module_User")(type "KiCad")(uri "${KIPRJMOD}/lib/RF_Module_User.kicad_sym")(options "")(descr ""))
+)

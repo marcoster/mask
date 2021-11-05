@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Button_Switch_Keyboard_Swappable")(type "KiCad")(uri "${KIPRJMOD}/lib/Button_Switch_Keyboard_Swappable.pretty")(options "")(descr ""))
   (lib (name "Diode_SMD_TopBottom")(type "KiCad")(uri "${KIPRJMOD}/lib/Diode_SMD_TopBottom.pretty")(options "")(descr ""))
+  (lib (name "RF_Module_User")(type "KiCad")(uri "${KIPRJMOD}/lib/RF_Module_User.pretty")(options "")(descr ""))
 )
