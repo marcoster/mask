@@ -1162,7 +1162,7 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 85.09 62.23 90)
+  (symbol (lib_id "Diode:1N4148W") (at 85.09 62.23 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e703295a-6923-4e82-b5f8-adba4ab622af)
     (property "Reference" "D1" (id 0) (at 87.1221 61.3215 90)
@@ -1181,7 +1181,7 @@
     (pin "2" (uuid 5ec82148-1480-435c-bc6d-0103390ac672))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 85.09 85.09 90)
+  (symbol (lib_id "Diode:1N4148W") (at 85.09 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid df3602a1-c26d-480c-b378-de8293aacb91)
     (property "Reference" "D8" (id 0) (at 87.1221 84.1815 90)
@@ -1200,7 +1200,7 @@
     (pin "2" (uuid ffcf1299-22b5-4509-99af-2509b3c84bdb))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 85.09 107.95 90)
+  (symbol (lib_id "Diode:1N4148W") (at 85.09 107.95 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4fdb4348-9cf5-4dc4-8965-d84868725c5e)
     (property "Reference" "D15" (id 0) (at 89.6621 107.0415 90)
@@ -1219,7 +1219,7 @@
     (pin "2" (uuid 8921da41-e9be-45fc-8ca5-922da4577775))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 85.09 130.81 90)
+  (symbol (lib_id "Diode:1N4148W") (at 85.09 130.81 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 04c87961-4a6e-4aeb-b101-ab92e8b00c82)
     (property "Reference" "D22" (id 0) (at 89.6621 129.9015 90)
@@ -1238,7 +1238,7 @@
     (pin "2" (uuid 1e62dd81-5b2c-452c-8c87-2f87caeb2b66))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 85.09 153.67 90)
+  (symbol (lib_id "Diode:1N4148W") (at 85.09 153.67 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9dd84b22-4c7a-4ae0-9cd3-303f0d7185fe)
     (property "Reference" "D29" (id 0) (at 87.1221 152.7615 90)
@@ -1257,7 +1257,7 @@
     (pin "2" (uuid aa0df745-9fe1-43b7-8703-c982eaa6285e))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 105.41 62.23 90)
+  (symbol (lib_id "Diode:1N4148W") (at 105.41 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b40206b0-716f-4da6-8760-00b4574b50b8)
     (property "Reference" "D2" (id 0) (at 107.4421 61.3215 90)
@@ -1276,7 +1276,7 @@
     (pin "2" (uuid 1df2c77e-12e4-4039-8f62-a9445cee5075))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 105.41 85.09 90)
+  (symbol (lib_id "Diode:1N4148W") (at 105.41 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eaaa9ad8-3a0b-4214-a0c0-d468400d79fa)
     (property "Reference" "D9" (id 0) (at 107.4421 84.1815 90)
@@ -1295,7 +1295,7 @@
     (pin "2" (uuid 3f1d8694-4b2e-480d-9003-f6eb331d83fd))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 105.41 107.95 90)
+  (symbol (lib_id "Diode:1N4148W") (at 105.41 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a3a6f3b1-0168-41cf-948d-3d4fb9ee4448)
     (property "Reference" "D16" (id 0) (at 107.4421 107.0415 90)
@@ -1314,7 +1314,7 @@
     (pin "2" (uuid b83a6244-79c6-436b-8507-df1d2b05ee16))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 105.41 130.81 90)
+  (symbol (lib_id "Diode:1N4148W") (at 105.41 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid da72ce19-fddf-4c01-982b-ac59433efe14)
     (property "Reference" "D23" (id 0) (at 107.4421 129.9015 90)
@@ -1333,7 +1333,7 @@
     (pin "2" (uuid e3c12764-a4ea-4b2c-b59a-9469b51793ce))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 105.41 153.67 90)
+  (symbol (lib_id "Diode:1N4148W") (at 105.41 153.67 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d0b03ba2-2bb7-4b1f-b2db-b9048734df5e)
     (property "Reference" "D30" (id 0) (at 107.4421 152.7615 90)
@@ -1352,7 +1352,7 @@
     (pin "2" (uuid eb712e0f-2c6d-4c2c-929b-860eb2a5a7d5))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 125.73 62.23 90)
+  (symbol (lib_id "Diode:1N4148W") (at 125.73 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 23c8946a-083e-42c1-98c0-35242a254f42)
     (property "Reference" "D3" (id 0) (at 127.7621 61.3215 90)
@@ -1371,7 +1371,7 @@
     (pin "2" (uuid 37574ca2-2e7d-41a8-b385-cb34cbce5f11))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 125.73 85.09 90)
+  (symbol (lib_id "Diode:1N4148W") (at 125.73 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 44587b10-3aad-4df8-92b3-abd3f84b4f12)
     (property "Reference" "D10" (id 0) (at 127.7621 84.1815 90)
@@ -1390,7 +1390,7 @@
     (pin "2" (uuid 41bda09c-a83d-4c67-98e9-7e2b8430e9ba))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 125.73 107.95 90)
+  (symbol (lib_id "Diode:1N4148W") (at 125.73 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4b97eb1f-fbcd-4d2d-b59b-c442d0aadf71)
     (property "Reference" "D17" (id 0) (at 127.7621 107.0415 90)
@@ -1409,7 +1409,7 @@
     (pin "2" (uuid 5f80eeed-d72e-4208-aa63-3ba0347cca93))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 125.73 130.81 90)
+  (symbol (lib_id "Diode:1N4148W") (at 125.73 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b3899a8b-a8f0-4b0c-87dd-8e2f721e3465)
     (property "Reference" "D24" (id 0) (at 127.7621 129.9015 90)
@@ -1428,7 +1428,7 @@
     (pin "2" (uuid 0de28784-9a80-408e-85f4-e58ac20c72c4))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 125.73 153.67 90)
+  (symbol (lib_id "Diode:1N4148W") (at 125.73 153.67 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1eccd69e-0b4e-4dc8-98ee-8ab91ff6e8a2)
     (property "Reference" "D31" (id 0) (at 127.7621 152.7615 90)
@@ -1447,7 +1447,7 @@
     (pin "2" (uuid d2ce9b1a-ba3f-45ee-a6db-5f8d79db911d))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 146.05 62.23 90)
+  (symbol (lib_id "Diode:1N4148W") (at 146.05 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e024c79d-202e-4cca-9469-24c8baa83133)
     (property "Reference" "D4" (id 0) (at 148.0821 61.3215 90)
@@ -1466,7 +1466,7 @@
     (pin "2" (uuid db5ccb91-a90e-4f5b-9c5d-5676484f5c33))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 146.05 85.09 90)
+  (symbol (lib_id "Diode:1N4148W") (at 146.05 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e02dd939-d6ae-4508-a585-ae3c3f22017b)
     (property "Reference" "D11" (id 0) (at 148.0821 84.1815 90)
@@ -1485,7 +1485,7 @@
     (pin "2" (uuid 52b2d711-11b7-41c5-b30e-716c877bbc97))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 146.05 107.95 90)
+  (symbol (lib_id "Diode:1N4148W") (at 146.05 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 490b84f4-57af-421f-b756-2dda2e929357)
     (property "Reference" "D18" (id 0) (at 148.0821 107.0415 90)
@@ -1504,7 +1504,7 @@
     (pin "2" (uuid fa3cef14-4526-40ef-944b-e027a56868a8))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 146.05 130.81 90)
+  (symbol (lib_id "Diode:1N4148W") (at 146.05 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6be18c58-655a-41f0-9257-970935c90fa5)
     (property "Reference" "D25" (id 0) (at 148.0821 129.9015 90)
@@ -1523,7 +1523,7 @@
     (pin "2" (uuid e65d00e2-4c76-4d5d-9c11-660e07144241))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 146.05 153.67 90)
+  (symbol (lib_id "Diode:1N4148W") (at 146.05 153.67 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b9d6f9f7-c5f9-4359-a19b-9daa6df60c21)
     (property "Reference" "D32" (id 0) (at 148.0821 152.7615 90)
@@ -1542,7 +1542,7 @@
     (pin "2" (uuid e959a0f2-d69a-4819-9d47-34035f1a963a))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 166.37 62.23 90)
+  (symbol (lib_id "Diode:1N4148W") (at 166.37 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 27bf5ca5-678f-4bb5-b18e-c18f598048c6)
     (property "Reference" "D5" (id 0) (at 168.4021 61.3215 90)
@@ -1561,7 +1561,7 @@
     (pin "2" (uuid ceed03be-65c4-4ea1-b449-e3f5860ca744))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 166.37 85.09 90)
+  (symbol (lib_id "Diode:1N4148W") (at 166.37 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d1fecd14-4d09-4cf3-a5df-1124db016329)
     (property "Reference" "D12" (id 0) (at 168.4021 84.1815 90)
@@ -1580,7 +1580,7 @@
     (pin "2" (uuid 484d3cd3-da23-4048-897b-9a3baea60c78))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 166.37 107.95 90)
+  (symbol (lib_id "Diode:1N4148W") (at 166.37 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 30891e32-5484-4739-bd07-f51fc36978ac)
     (property "Reference" "D19" (id 0) (at 168.4021 107.0415 90)
@@ -1599,7 +1599,7 @@
     (pin "2" (uuid f0e104c2-9fb2-406b-8267-2cea49aaefc4))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 166.37 130.81 90)
+  (symbol (lib_id "Diode:1N4148W") (at 166.37 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 99f681ca-51d9-4753-b6c4-b40b09c41f97)
     (property "Reference" "D26" (id 0) (at 168.4021 129.9015 90)
@@ -1618,7 +1618,7 @@
     (pin "2" (uuid 27aff17c-35c7-4da9-90fd-95a31e635a66))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 166.37 153.67 90)
+  (symbol (lib_id "Diode:1N4148W") (at 166.37 153.67 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f7f76f68-538e-40bd-96be-0530fae3610b)
     (property "Reference" "D33" (id 0) (at 168.4021 152.7615 90)
@@ -1637,7 +1637,7 @@
     (pin "2" (uuid 4819a9b1-0922-4d6b-ae57-5588eaeffb4b))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 186.69 62.23 90)
+  (symbol (lib_id "Diode:1N4148W") (at 186.69 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 08e9f8d1-a4cb-407f-a52e-c078e090739d)
     (property "Reference" "D6" (id 0) (at 188.7221 61.3215 90)
@@ -1656,7 +1656,7 @@
     (pin "2" (uuid bc2571cc-996c-48af-adba-6bd72b273d22))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 186.69 85.09 90)
+  (symbol (lib_id "Diode:1N4148W") (at 186.69 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 34c19b1d-ae74-417f-b890-999d4c8e7cde)
     (property "Reference" "D13" (id 0) (at 188.7221 84.1815 90)
@@ -1675,7 +1675,7 @@
     (pin "2" (uuid 6822788f-d62d-4948-8d35-728d5388f2ff))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 186.69 107.95 90)
+  (symbol (lib_id "Diode:1N4148W") (at 186.69 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4d96e849-107f-46ad-b905-34194212cbc1)
     (property "Reference" "D20" (id 0) (at 188.7221 107.0415 90)
@@ -1694,7 +1694,7 @@
     (pin "2" (uuid fd666bd3-1da6-4905-8bab-44c4e2126bea))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 186.69 130.81 90)
+  (symbol (lib_id "Diode:1N4148W") (at 186.69 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 79f834b9-6c87-43bb-9618-317ffd7f87a5)
     (property "Reference" "D27" (id 0) (at 188.7221 129.9015 90)
@@ -1713,7 +1713,7 @@
     (pin "2" (uuid 90907e09-baaa-4ce7-aafe-6c71725f71f9))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 186.69 153.67 90)
+  (symbol (lib_id "Diode:1N4148W") (at 186.69 153.67 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ecd2ab20-050c-48c2-b7b2-c1a580b7a02b)
     (property "Reference" "D34" (id 0) (at 188.7221 152.7615 90)
@@ -1732,7 +1732,7 @@
     (pin "2" (uuid c6ecfac5-a71c-481a-9943-3f0a7f41f1f6))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 226.06 62.23 90)
+  (symbol (lib_id "Diode:1N4148W") (at 226.06 62.23 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3ab29b15-4bd8-47a9-b4c3-a37bf9792690)
     (property "Reference" "D7" (id 0) (at 228.0921 61.3215 90)
@@ -1751,7 +1751,7 @@
     (pin "2" (uuid 4fa8b77b-98b8-4ae8-b9fc-235201e59c91))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 226.06 85.09 90)
+  (symbol (lib_id "Diode:1N4148W") (at 226.06 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 476482e6-5c2f-476b-8c2a-7c9487030185)
     (property "Reference" "D14" (id 0) (at 228.0921 84.1815 90)
@@ -1770,7 +1770,7 @@
     (pin "2" (uuid 47f31a16-45ec-4edc-9e18-3bcc54d4a294))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 226.06 107.95 90)
+  (symbol (lib_id "Diode:1N4148W") (at 226.06 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f93a2b09-17b7-48e6-90c8-bfd16ebd67e4)
     (property "Reference" "D21" (id 0) (at 228.0921 107.0415 90)
@@ -1789,7 +1789,7 @@
     (pin "2" (uuid ff447c3b-6aaf-46e3-8ddb-f33102c837e1))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 226.06 130.81 90)
+  (symbol (lib_id "Diode:1N4148W") (at 226.06 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 35098072-52e2-4f56-a0c8-c5ab625411dd)
     (property "Reference" "D28" (id 0) (at 228.0921 129.9015 90)
@@ -1808,7 +1808,7 @@
     (pin "2" (uuid 26debfe4-1966-4233-8d2a-ac69b3841ac1))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 226.06 153.67 90)
+  (symbol (lib_id "Diode:1N4148W") (at 226.06 153.67 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0e702313-f5e7-401c-98ba-30d12addb185)
     (property "Reference" "D35" (id 0) (at 228.0921 152.7615 90)
@@ -1827,7 +1827,7 @@
     (pin "2" (uuid 7e4cf63a-ddf1-4b7c-8008-8a7fe2d67d4a))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 77.47 55.88 0)
+  (symbol (lib_id "Switch:SW_Push") (at 77.47 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 88742ce9-3cac-4510-bc93-8dcddb3dbf65)
     (property "Reference" "SW1" (id 0) (at 77.47 48.9924 0))
@@ -1842,7 +1842,7 @@
     (pin "2" (uuid 5b7f362f-20be-434f-98ac-aa05c5b0199a))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 77.47 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 77.47 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cb5dadef-6514-4bc8-af5a-37938c1e325d)
     (property "Reference" "SW8" (id 0) (at 77.47 71.8524 0))
@@ -1857,7 +1857,7 @@
     (pin "2" (uuid 4d44c638-3b76-4366-a3a4-a3cf92b0ecae))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 77.47 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 77.47 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 761c5677-c2f0-4fc5-9f17-517497f6d3a7)
     (property "Reference" "SW15" (id 0) (at 77.47 94.7124 0))
@@ -1872,7 +1872,7 @@
     (pin "2" (uuid 6ee8cc8a-c371-470b-908c-4244e1f343fa))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 77.47 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 77.47 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d6b67039-bd2c-4176-bd75-6ebd69e233ba)
     (property "Reference" "SW22" (id 0) (at 77.47 117.5724 0))
@@ -1887,7 +1887,7 @@
     (pin "2" (uuid 009d9f51-785f-4452-908d-4dcb0902f4c1))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 77.47 147.32 0)
+  (symbol (lib_id "Switch:SW_Push") (at 77.47 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid db657c36-8800-4e9d-9e92-ca5a74ee57f9)
     (property "Reference" "SW29" (id 0) (at 77.47 140.4324 0))
@@ -1902,7 +1902,7 @@
     (pin "2" (uuid 4efcbd20-48c9-48fa-98c8-a80d5053c171))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 97.79 55.88 0)
+  (symbol (lib_id "Switch:SW_Push") (at 97.79 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 08a49e70-6f6c-410e-812a-3ec11d1acfd2)
     (property "Reference" "SW2" (id 0) (at 97.79 48.9924 0))
@@ -1917,7 +1917,7 @@
     (pin "2" (uuid bcc7c43e-4c83-4f5e-a11b-931b50eca9d8))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 97.79 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 97.79 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eab1da1b-8693-439a-939d-f357d70446bd)
     (property "Reference" "SW9" (id 0) (at 97.79 71.8524 0))
@@ -1932,7 +1932,7 @@
     (pin "2" (uuid b38928cd-7c88-4972-9cc5-05479da3f847))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 97.79 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 97.79 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5f41cd20-c244-4df4-a66c-1318fd07893c)
     (property "Reference" "SW16" (id 0) (at 97.79 94.7124 0))
@@ -1947,7 +1947,7 @@
     (pin "2" (uuid 1da25c2a-42c0-4b49-abee-955f9d1ac422))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 97.79 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 97.79 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 805f53e4-28fa-4ece-8097-5e9dcd9168d5)
     (property "Reference" "SW23" (id 0) (at 97.79 117.5724 0))
@@ -1962,7 +1962,7 @@
     (pin "2" (uuid a44b61fa-a27b-4b0a-bc93-a42779a79910))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 97.79 147.32 0)
+  (symbol (lib_id "Switch:SW_Push") (at 97.79 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d7bef4b2-28bf-46c3-b034-44a3845ab893)
     (property "Reference" "SW30" (id 0) (at 97.79 140.4324 0))
@@ -1977,7 +1977,7 @@
     (pin "2" (uuid 1d9dc36e-990c-4d54-a376-fbd94dcae271))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 118.11 55.88 0)
+  (symbol (lib_id "Switch:SW_Push") (at 118.11 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6f6fa324-1f02-41d1-ac68-57ffd27b181c)
     (property "Reference" "SW3" (id 0) (at 118.11 48.9924 0))
@@ -1992,7 +1992,7 @@
     (pin "2" (uuid 079facab-0f5a-43fc-8295-97cb0c544598))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 118.11 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 118.11 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9b3851c3-ba1c-4a05-ad2c-4ea13a1d21d5)
     (property "Reference" "SW10" (id 0) (at 118.11 71.8524 0))
@@ -2007,7 +2007,7 @@
     (pin "2" (uuid c2da5728-2cc0-41da-9f2c-775260895e5f))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 118.11 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 118.11 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b3dd874d-1795-462b-887f-f847f12b03c3)
     (property "Reference" "SW17" (id 0) (at 118.11 94.7124 0))
@@ -2022,7 +2022,7 @@
     (pin "2" (uuid c2ecdf38-22a9-40ee-ad1c-15e0037369b9))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 118.11 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 118.11 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5d29aee2-e12d-408e-a91b-c177e3ddbfc1)
     (property "Reference" "SW24" (id 0) (at 118.11 117.5724 0))
@@ -2037,7 +2037,7 @@
     (pin "2" (uuid 145c159d-b1ff-44ba-82ec-77c3b332f69d))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 118.11 147.32 0)
+  (symbol (lib_id "Switch:SW_Push") (at 118.11 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 09bea3a5-6b0a-49ad-b232-87527ef2d9fb)
     (property "Reference" "SW31" (id 0) (at 118.11 140.4324 0))
@@ -2052,7 +2052,7 @@
     (pin "2" (uuid e7be3675-231d-42b1-b423-14329e34a962))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 138.43 55.88 0)
+  (symbol (lib_id "Switch:SW_Push") (at 138.43 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2ecdb58-7188-46fa-a7f9-159d4619e42e)
     (property "Reference" "SW4" (id 0) (at 138.43 48.9924 0))
@@ -2067,7 +2067,7 @@
     (pin "2" (uuid 05ed0b5d-da1a-4b81-b906-0bc5557855c2))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 138.43 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 138.43 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dc655250-0724-4c59-ac7c-31c04e22ce72)
     (property "Reference" "SW11" (id 0) (at 138.43 71.8524 0))
@@ -2082,7 +2082,7 @@
     (pin "2" (uuid d1de312a-1b7b-4ea6-b362-f015cb978dd7))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 138.43 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 138.43 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1c5dd066-f704-4f81-a348-5cb4e5baef85)
     (property "Reference" "SW18" (id 0) (at 138.43 94.7124 0))
@@ -2097,7 +2097,7 @@
     (pin "2" (uuid f72854cb-04ae-4d1d-b9b3-55a8ccba75e6))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 138.43 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 138.43 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aa9f6730-0aa9-4818-9e26-8e37a25eedb7)
     (property "Reference" "SW25" (id 0) (at 138.43 117.5724 0))
@@ -2112,7 +2112,7 @@
     (pin "2" (uuid b2391080-d036-4ad5-8509-2dd448595cdf))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 138.43 147.32 0)
+  (symbol (lib_id "Switch:SW_Push") (at 138.43 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 27f780bf-e7f8-4b01-9646-529cecaed6e7)
     (property "Reference" "SW32" (id 0) (at 138.43 140.4324 0))
@@ -2127,7 +2127,7 @@
     (pin "2" (uuid 4986f8b1-1526-484f-8dac-3d9b1ac207b7))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 158.75 55.88 0)
+  (symbol (lib_id "Switch:SW_Push") (at 158.75 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3a5946db-dad7-4200-b13d-5bac50a83270)
     (property "Reference" "SW5" (id 0) (at 158.75 48.9924 0))
@@ -2142,7 +2142,7 @@
     (pin "2" (uuid 7a3ab3d8-1751-4aa7-81ed-e691507a31c5))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 158.75 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 158.75 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0a3feeb9-008b-4949-9c54-8f4d5dcce9a5)
     (property "Reference" "SW12" (id 0) (at 158.75 71.8524 0))
@@ -2157,7 +2157,7 @@
     (pin "2" (uuid 640b35d8-78fb-4a96-91be-81909b95c91d))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 158.75 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 158.75 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e8857166-4cd3-4ff6-8afc-4d07deb4ab71)
     (property "Reference" "SW19" (id 0) (at 158.75 94.7124 0))
@@ -2172,7 +2172,7 @@
     (pin "2" (uuid d620c0cc-c10f-4466-85ee-91b1f5aa0b8a))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 158.75 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 158.75 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0a4dda2f-0930-41a7-afbf-7e164346bffc)
     (property "Reference" "SW26" (id 0) (at 158.75 117.5724 0))
@@ -2187,7 +2187,7 @@
     (pin "2" (uuid ea6504b2-567c-47b2-b08f-d885f97eb585))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 158.75 147.32 0)
+  (symbol (lib_id "Switch:SW_Push") (at 158.75 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 37641caf-6068-4388-a461-aa9c6a296931)
     (property "Reference" "SW33" (id 0) (at 158.75 140.4324 0))
@@ -2202,7 +2202,7 @@
     (pin "2" (uuid a20747e9-f555-4ff0-8e73-b2d14e3927ce))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 179.07 55.88 0)
+  (symbol (lib_id "Switch:SW_Push") (at 179.07 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f3ad7b14-63d9-408c-8467-faf5fabbafea)
     (property "Reference" "SW6" (id 0) (at 179.07 48.9924 0))
@@ -2217,7 +2217,7 @@
     (pin "2" (uuid 2f8432cb-f671-4f20-8acc-b2603ca08322))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 179.07 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 179.07 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6f38d093-026d-4a29-95dc-ff5984d2981b)
     (property "Reference" "SW13" (id 0) (at 179.07 71.8524 0))
@@ -2232,7 +2232,7 @@
     (pin "2" (uuid 3c1cb4c7-1245-4ab1-8ab4-627d7dd41891))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 179.07 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 179.07 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eb954e8d-7d9a-4481-b7a9-ab0e08fe7f96)
     (property "Reference" "SW20" (id 0) (at 179.07 94.7124 0))
@@ -2247,7 +2247,7 @@
     (pin "2" (uuid ee61609d-234f-4423-975c-3cb5afd8ed8e))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 179.07 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 179.07 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a22014e6-d6f6-4845-bae3-568e74de979e)
     (property "Reference" "SW27" (id 0) (at 179.07 117.5724 0))
@@ -2262,7 +2262,7 @@
     (pin "2" (uuid 2450ea78-fdc8-47d8-a199-f5809f5978c0))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 179.07 147.32 0)
+  (symbol (lib_id "Switch:SW_Push") (at 179.07 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d636c661-fb6f-4c43-ba2d-52f41369b14b)
     (property "Reference" "SW34" (id 0) (at 179.07 140.4324 0))
@@ -2277,7 +2277,7 @@
     (pin "2" (uuid 200e5338-4534-4132-b827-195e604aace0))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 195.58 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 195.58 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 06bac0cc-327e-47e8-8241-c99bb45ae127)
     (property "Reference" "SW13_1" (id 0) (at 195.58 71.8524 0))
@@ -2292,7 +2292,7 @@
     (pin "2" (uuid 68f126da-0618-4ce0-8adc-e49fa73c8a78))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 195.58 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 195.58 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 904c3372-c061-4c6d-9dba-9f3b146ec1d3)
     (property "Reference" "SW20_1" (id 0) (at 195.58 94.7124 0))
@@ -2307,7 +2307,7 @@
     (pin "2" (uuid bb54c6e2-8b73-4bcb-a2c2-bbad51e360a2))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 195.58 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 195.58 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 63b875d7-a92a-4f19-9ba4-6406dfa946da)
     (property "Reference" "SW27_1" (id 0) (at 195.58 117.5724 0))
@@ -2322,7 +2322,7 @@
     (pin "2" (uuid 7ab16877-65a8-4f22-a9b4-e5e5dbd71826))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 218.44 55.88 0)
+  (symbol (lib_id "Switch:SW_Push") (at 218.44 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b9d14f5e-e533-4f8f-88b1-d18fd1839132)
     (property "Reference" "SW7" (id 0) (at 218.44 48.9924 0))
@@ -2337,7 +2337,7 @@
     (pin "2" (uuid 1fe2eda1-aed6-43ca-958c-6ed9328647a5))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 218.44 78.74 0)
+  (symbol (lib_id "Switch:SW_Push") (at 218.44 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ab960bba-2e3b-4bd6-beef-d82e4d7e6516)
     (property "Reference" "SW14" (id 0) (at 218.44 71.8524 0))
@@ -2352,7 +2352,7 @@
     (pin "2" (uuid 424f6fa5-3221-4b57-a357-ec9acca40c4a))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 218.44 101.6 0)
+  (symbol (lib_id "Switch:SW_Push") (at 218.44 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 91dfa464-adfa-4fcf-b735-d20ed034a00e)
     (property "Reference" "SW21" (id 0) (at 218.44 94.7124 0))
@@ -2367,7 +2367,7 @@
     (pin "2" (uuid b0cd5524-4ca6-4cee-a2ae-3fb4fce4b45b))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 218.44 124.46 0)
+  (symbol (lib_id "Switch:SW_Push") (at 218.44 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 94263473-e064-400c-9b3d-7ebad10f0eff)
     (property "Reference" "SW28" (id 0) (at 218.44 117.5724 0))
@@ -2382,7 +2382,7 @@
     (pin "2" (uuid 70ca5ee9-f5dd-475e-8ca2-6d8dffb3ccea))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 218.44 147.32 0)
+  (symbol (lib_id "Switch:SW_Push") (at 218.44 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 32a00a50-6478-4e2e-b056-5afa3d5c34b3)
     (property "Reference" "SW35" (id 0) (at 218.44 140.4324 0))
