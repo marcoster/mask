@@ -64,7 +64,7 @@
       36
     ],
     "visible_layers": "ffcffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "mask-0.0.0.kicad_prl",
