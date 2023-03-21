@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "ublox")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/ublox.pretty")(options "")(descr ""))
+  (lib (name "mask")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/mask.pretty")(options "")(descr ""))
 )
