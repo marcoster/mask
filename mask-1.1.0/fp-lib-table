@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SofleRGB")(type "KiCad")(uri "${KIPRJMOD}/SofleRGB.pretty")(options "")(descr ""))
+  (lib (name "usb")(type "KiCad")(uri "${KIPRJMOD}/usb.pretty")(options "")(descr ""))
+  (lib (name "ublox")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/ublox.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/logo.pretty")(options "")(descr ""))
+)

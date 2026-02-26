@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SofleKeyboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/mask-1.0.0-rescue.lib")(options "")(descr ""))
+  (lib (name "SofleKeyboard")(type "Legacy")(uri "${KIPRJMOD}/mask-1.0.0.lib")(options "")(descr ""))
+)
