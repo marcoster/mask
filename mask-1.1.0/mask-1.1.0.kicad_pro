@@ -582,7 +582,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "SofleKeyboard.step",
+      "step": "mask-1.1.0.step",
       "svg": "",
       "vrml": ""
     },
